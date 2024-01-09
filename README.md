@@ -1,4 +1,5 @@
 ##_Deskripsi_
+
 Putusan pengadilan negeri terkait narkotika dan psikotropika adalah hasil keputusan hukum yang dikeluarkan oleh lembaga peradilan setelah mempertimbangkan fakta dan bukti yang disajikan dalam persidangan. Kasus ini biasanya melibatkan pelanggaran terhadap hukum yang terkait dengan penggunaan, peredaran, atau kepemilikan narkotika dan psikotropika. Putusan pengadilan negeri biasanya mencakup hukuman yang sesuai dengan pelanggaran yang dilakukan, seperti pidana penjara, denda, atau hukuman lainnya. Selain itu, putusan tersebut dapat mencakup rehabilitasi atau program pemulihan bagi mereka yang terlibat dalam penyalahgunaan narkotika.
   
 ##_Dataset_
